@@ -14,7 +14,7 @@ This is a simple web app that allows users to enter text, which will then be dra
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/text-gravity.git`
+1. Clone the repository: `git clone https://github.com/PeterYama/falling-text-canvas.git`
 2. Open `index.html` in your web browser.
 
 ## Contributing
